@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madhavamitarora-glitch.github.io/sitemap.xml
